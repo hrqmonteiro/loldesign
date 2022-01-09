@@ -2,8 +2,6 @@
 
 Feito para assignment para a agência [LolDesign](https://https://www.loldesign.com.br/)
 
-<br>
-
 ## Stack:
 
 - Next.js
@@ -11,17 +9,11 @@ Feito para assignment para a agência [LolDesign](https://https://www.loldesign.
 - TailwindCSS
 - Docker
 
-<br>
-
 ## Live preview:
 
-Clique [aqui] para ver a aplicação rodando.
-
-<br>
+Clique [aqui](https://loldesign.vercel.app/) para ver a aplicação rodando.
 
 ## Iniciando a aplicação
-
-<br>
 
 ### Modo desenvolvimento, direto do Yarn ou npm:
 
@@ -33,8 +25,6 @@ npm run dev
 
 Abra `https://localhost:3000` para abrí-la.
 
-<br>
-
 ### Modo produção (buildar com o Next Server-Side-Rendering)
 
 ```
@@ -42,8 +32,6 @@ yarn build
 # ou
 npm run build
 ```
-
-<br>
 
 ### Docker
 
